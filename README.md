@@ -4,7 +4,7 @@ This is a creative landing page built using GSAP (GreenSock Animation Platform) 
 
 ## 🚀 Live Demo
 
-🔗 [View Live Site](https://sushantsubedi-tech.github.io/Made-with-gsap/)
+🔗 [View Live Site](https://sushant-io.github.io/Made-with-gsap/)
 
 ## 🛠️ Tech Stack
 
